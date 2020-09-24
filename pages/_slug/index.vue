@@ -30,6 +30,7 @@ export default {
 .publishedAt {
   margin-bottom: 40px;
 }
+
 .post {
   & > h1 {
     font-size: 30px;
